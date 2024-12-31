@@ -16,8 +16,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dream Property",
-  description: "Learn Property design",
+  title:
+    "Dream Property - Your Gateway to Luxury Homes and Real Estate Insights",
+  description:
+    "Discover your dream property with expert real estate insights, stunning home designs, and tailored solutions to turn your dream home into reality. Explore now!",
 };
 
 export default function RootLayout({
