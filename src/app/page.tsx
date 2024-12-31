@@ -12,8 +12,8 @@ import PropertySearch from "@/components/propertySearch";
 
 const dummyBackgrounds = [
   "url('/ai-generated-dream-property.jpg')",
-  "url('https://tecdn.b-cdn.net/img/Photos/Slides/img%20(22).jpg')",
-  "url('https://tecdn.b-cdn.net/img/Photos/Slides/img%20(23).jpg')",
+  "url('beautiful-rustic-house-landscape.jpg')",
+  "url('luxurious-villa-with-modern-architectural-design.jpg')",
 ];
 
 export default function Home() {
